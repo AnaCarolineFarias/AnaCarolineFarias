@@ -34,7 +34,7 @@ Atualmente possuo um cargo de Aprendiz de TI na empresa <img src="https://github
 
   <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="40" height="40">
 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="100" height="60">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="95" height="65">
 
 ## Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40">
