@@ -19,7 +19,7 @@ Atualmente possuo um cargo de Aprendiz de TI na empresa <img src="https://github
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40"/>
 </a>
 
-<a href="mailto:anacarolinedeoliveirafarias@gmail.com">
+[EMAIL]<a href="mailto:anacarolinedeoliveirafarias@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail logo" width="40"/>
 </a>
 
