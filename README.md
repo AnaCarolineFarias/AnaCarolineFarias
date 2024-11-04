@@ -11,6 +11,7 @@ Atualmente possuo um cargo de Aprendiz de TI na empresa <img src="https://github
 
 ## Minhas redes Sociais
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo" width="40" height="40">
 ![Instagram](https://www.instagram.com/_fariaasz/)
 
 ### Tecnologias as quais utilizo
