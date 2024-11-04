@@ -15,6 +15,11 @@ Atualmente possuo um cargo de Aprendiz de TI na empresa <img src="https://github
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
 </a>
 
+<a href="https://br.linkedin.com/in/ana-caroline-oliveira-farias-73411a318">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40"/>
+</a>
+
+
 
 
 ### Tecnologias as quais utilizo
