@@ -30,14 +30,15 @@ Atualmente possuo um cargo de Aprendiz de TI na empresa <img src="https://github
 ### Tecnologias as quais utilizo
 
 - **Linguagens:**
-- <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript Logo" width="40" height="40">
+ <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript Logo" width="40" height="40">
 
-- <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="40" height="40">
+  <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="40" height="40">
 
-- <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40">
 
 ## Ferramentas
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40">
+<img src="https://dbeaver.io/wp-content/uploads/2015/09/dbeaver-head-logo.png" alt="DBeaver" width="40"/>
 
 
 
