@@ -21,7 +21,9 @@ Atualmente possuo um cargo de Aprendiz de TI na empresa <img src="https://github
 
 - **Linguagens:**
 - TypeScript <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript Logo" width="40" height="40">
-- PHP
+
+- PHP <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="40" height="40">
+
 - SQL
 - Visual Studio Code
 
