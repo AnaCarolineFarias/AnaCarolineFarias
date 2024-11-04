@@ -38,7 +38,7 @@ Atualmente possuo um cargo de Aprendiz de TI na empresa <img src="https://github
 
 ## Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40">
-<img src="https://dbeaver.io/wp-content/uploads/2015/09/dbeaver-head-logo.png" alt="DBeaver" width="40"/>
+<img src="https://dbeaver.io/wp-content/uploads/2015/09/dbeaver-head-logo.png" alt="DBeaver" width="40" height="40"/>
 
 
 
