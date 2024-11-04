@@ -1,16 +1,24 @@
-## Hi there 👋
+# Bem-vindo ao Meu Projeto!
 
-<!--
-**AnaCarolineFarias/AnaCarolineFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! 👋 Seja bem-vindo(a) aos meu projetos. Estes repositórios é um espaço onde compartilho minhas ideias, experimentos e aprendizados em desenvolvimento de software.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é **Ana Caroline de Oliveira Farias**. Sou uma desenvolvedora apaixonada por tecnologia, games e tudo envolvendo a área de TI, sempre em busca de aprender algo novo e de compartilhar conhecimento com a comunidade. Gosto de trabalhar com SQL, TypeScript, JavaScript, PHP e tecnologias Web de preferência BackEnd e estou sempre explorando novas ferramentas e técnicas para melhorar minhas habilidades e conhecimentos.
+
+Atualmente possuo um cargo de Aprendiz de TI na empresa Flai Informática e Administração LTDA, localizada no Parque Tecnológico de Sorocaba.
+![Flai](https://github.com/user-attachments/assets/4d4cd47e-94bf-44f8-8f71-b21ab58d4eba)
+
+## Minhas redes Sociais
+
+![Instagram](https://www.instagram.com/_fariaasz/)
+
+### Tecnologias as quais utilizo
+
+- **Linguagens:**
+- TypeScript <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript Logo" width="40" height="40">
+- PHP
+- SQL
+- Visual Studio Code
+
+
