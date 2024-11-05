@@ -30,11 +30,8 @@ Atualmente possuo um cargo de Aprendiz de TI na empresa <img src="https://github
 ## Linguagens
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40"/>
-
  <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript Logo" width="40" height="40">
-
   <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="40" height="40">
-
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="95" height="65">
 
 ## Ferramentas
