@@ -27,11 +27,11 @@ Atualmente possuo um cargo de Aprendiz de TI na empresa <img src="https://github
 
 
 
-## Linguagens
+## Linguagens que mais utilizo
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40"/> <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript Logo" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="Logo PHP" width="70"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="95" height="65">
 
-## Ferramentas
+## Ferramentas que mais utilizo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40">
 <img src="https://awsmp-logos.s3.amazonaws.com/0ed7b11e-a954-4759-b706-255abb673d4c/019d31123782932ac3e85ee51c6e1f63.png" alt="DBeaver" width="90"/>
 
