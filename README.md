@@ -50,6 +50,7 @@ Atualmente possuo um cargo de Aprendiz de TI na empresa <img src="https://github
 
 
 ##
+<img src="https://github-readme-stats.vercel.app/api?username=AnaCarolineFarias&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="AnaCarolineFarias's Stats">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnaCarolineFarias&theme=synthwave&hide_border=true&border_radius=8.2&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
 ##
