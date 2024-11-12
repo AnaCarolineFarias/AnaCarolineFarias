@@ -1,17 +1,17 @@
 <p align="center">Visits </p>
 <p align="center"> <img align="center" src="https://profile-counter.glitch.me/AnaCarolineFarias/count.svg" /></p>
 
-# Bem-vindo aos meus projetos!
+## Bem-vindo aos meus projetos!
 
 Olá! 👋 Seja bem-vindo(a) aos meu projetos. Estes repositórios é um espaço onde compartilho minhas ideias, experimentos e aprendizados em desenvolvimento de software.
 
-
+##
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&pause=1000&color=F70000&width=435&lines=Hello%2C+my+name+is+Ana+Caroline;I'm+18+years+old;I'm+a+BackEnd+developer;I'm+from+Brazil" alt="Typing SVG" />
     </a>
 </div>
-
+##
 
 ## Sobre Mim
 
@@ -60,7 +60,7 @@ Atualmente possuo um cargo de Aprendiz de TI na empresa <img src="https://github
         <img src="https://ssr-contributions-svg.vercel.app/_/AnaCarolineFarias?chart=3dbar&gap=0.6&scale=2&light=45&gradient=true&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=30&theme=red" alt="3D Contributions Chart" />
     </a>
 </div>
-
+##
 
 
 
