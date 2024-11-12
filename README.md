@@ -54,10 +54,11 @@ Atualmente possuo um cargo de Aprendiz de TI na empresa <img src="https://github
 
 ##
 <div align="center">
-    <a href="https://ssr-contributions-svg.vercel.app/_/AnaCarolineFarias?chart=3dbar&gap=0.6&scale=2&light=45&gradient=true&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=30&theme=red&dark=true">
-        <img src="https://ssr-contributions-svg.vercel.app/_/AnaCarolineFarias?chart=3dbar&gap=0.6&scale=2&light=45&gradient=true&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=30&theme=red&dark=true" alt="3D Contributions Chart" />
+    <a href="https://ssr-contributions-svg.vercel.app/_/AnaCarolineFarias?chart=3dbar&gap=0.6&scale=2&light=45&gradient=true&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=30&theme=red">
+        <img src="https://ssr-contributions-svg.vercel.app/_/AnaCarolineFarias?chart=3dbar&gap=0.6&scale=2&light=45&gradient=true&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=30&theme=red" alt="3D Contributions Chart" />
     </a>
 </div>
+
 
 
 
