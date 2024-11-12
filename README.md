@@ -49,7 +49,7 @@ Atualmente possuo um cargo de Aprendiz de TI na empresa <img src="https://github
 <img src="https://awsmp-logos.s3.amazonaws.com/0ed7b11e-a954-4759-b706-255abb673d4c/019d31123782932ac3e85ee51c6e1f63.png" alt="DBeaver" width="90"/>
 
 
-
+##
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnaCarolineFarias&theme=synthwave&hide_border=true&border_radius=8.2&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
 
