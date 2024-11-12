@@ -8,6 +8,7 @@ Meu nome é **Ana Caroline de Oliveira Farias**. Sou uma desenvolvedora apaixona
 
 Atualmente possuo um cargo de Aprendiz de TI na empresa <img src="https://github.com/user-attachments/assets/4d4cd47e-94bf-44f8-8f71-b21ab58d4eba" alt="Flai Logo" width="40" height="40">**Flai Informática e Administração LTDA**, localizada no Parque Tecnológico de Sorocaba.
 
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/AnaCarolineFarias/count.svg" /></p>
 
 ## Minhas redes Sociais
 
