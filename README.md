@@ -4,6 +4,8 @@
 # Bem-vindo aos meus projetos!
 
 Olá! 👋 Seja bem-vindo(a) aos meu projetos. Estes repositórios é um espaço onde compartilho minhas ideias, experimentos e aprendizados em desenvolvimento de software.
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&pause=1000&color=F70000&width=435&lines=Hello%2C+my+name+is+Ana+Caroline;I'm+18+years+old;I'm+a+BackEnd+developer;I'm+from+Brazil" alt="Typing SVG" /></a>
 
 ## Sobre Mim
